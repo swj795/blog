@@ -1,1 +1,8 @@
-# Hello VuePress
+---
+home: true
+
+bgImage: /home/bg.jpg
+
+---
+
+
